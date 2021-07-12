@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Frame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5b23638b83c3f43598fd463ced9c56b2, type: 3}
+    totalSpriteSurfaceArea: 873691
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8e5f2f30b54914c64b10e912169e5a8a, type: 3}
+  - {fileID: 21300000, guid: 73baec4053b1b4854b3c4cf30d3e718a, type: 3}
+  - {fileID: 21300000, guid: 7b980d701fe4040d7bff62cd15f7d6b9, type: 3}
+  - {fileID: 21300000, guid: 7a7b91f0a61164dd79ad73b1052c4acf, type: 3}
+  - {fileID: 21300000, guid: 2ffb1d61022534fd8a238b71e8b695f8, type: 3}
+  - {fileID: 21300000, guid: d88d70a17ac33414c95ad5d9659d07f6, type: 3}
+  - {fileID: 21300000, guid: 7316e542267b14095b92018df2afb0cf, type: 3}
+  - {fileID: 21300000, guid: ed184e426477a45a4a6ab0a43de91a7a, type: 3}
+  - {fileID: 21300000, guid: 44c1c9b266b2645aabec6b693cef8ad9, type: 3}
+  - {fileID: 21300000, guid: 0942670320809405997827193d4989a6, type: 3}
+  - {fileID: 21300000, guid: e383a7333a562493e92f2eb7b6dfb72b, type: 3}
+  - {fileID: 21300000, guid: f48512635a4af47898af593bb1e0b0a9, type: 3}
+  - {fileID: 21300000, guid: d7bd54b3f69394a9cbf157e1c7c50136, type: 3}
+  - {fileID: 21300000, guid: cbcc16e36b364433185ff024ad5c372d, type: 3}
+  - {fileID: 21300000, guid: b5bf3844ebcfa4e1c8e7d43c82a6f0ca, type: 3}
+  - {fileID: 21300000, guid: 5d372ac4abd98414f8d6f09f94e0e5f4, type: 3}
+  - {fileID: 21300000, guid: 0f9eb00540c074ac99e2885359d51169, type: 3}
+  - {fileID: 21300000, guid: 0520644574d6e42b1bbab1308c911844, type: 3}
+  - {fileID: 21300000, guid: 7f962e067e69144f9b0566316b3aab93, type: 3}
+  - {fileID: 21300000, guid: 33b4f226478554a0787681641e05d4e3, type: 3}
+  - {fileID: 21300000, guid: e7d32f76b8c854de5a0ee3bf2fe381d8, type: 3}
+  - {fileID: 21300000, guid: 1c3a2bb6d7f6440118270c7e58e7e3c2, type: 3}
+  - {fileID: 21300000, guid: 9eac8937eb7124c1f9ffe8b0c53fc902, type: 3}
+  - {fileID: 21300000, guid: 16b5009788a20486a9faeb150bdb3e39, type: 3}
+  - {fileID: 21300000, guid: ff7828c73f6804210ae2b96b157960d0, type: 3}
+  - {fileID: 21300000, guid: 30749118a2680481e9ed6eb9231b53a9, type: 3}
+  - {fileID: 21300000, guid: 85c5f1f8757494d099cf95092d7669aa, type: 3}
+  - {fileID: 21300000, guid: a5e27ca9878d54787b40883d6c9aec5c, type: 3}
+  - {fileID: 21300000, guid: 332198b940fa74e968af42c96d68b8ab, type: 3}
+  - {fileID: 21300000, guid: 7c38e08a6acfc4b4ba94fd1dfdcc0b3b, type: 3}
+  - {fileID: 21300000, guid: c37387fa3a90549e9a007591dbf4dba0, type: 3}
+  - {fileID: 21300000, guid: e643144b18575463b8c7b2159f1825c7, type: 3}
+  - {fileID: 21300000, guid: 880cef4b466874c68933f0676dfe1e75, type: 3}
+  - {fileID: 21300000, guid: 9814648b7373e43b1b388723321d5d34, type: 3}
+  - {fileID: 21300000, guid: e0e2d3ab4c62448f2af36fe6ce0f5852, type: 3}
+  - {fileID: 21300000, guid: 086807cb8537943a3aecf3f09727446a, type: 3}
+  - {fileID: 21300000, guid: 7e326fdb1ce694a6592388c4553e351e, type: 3}
+  - {fileID: 21300000, guid: f7fa6a0ccc9a94ff6a481fb122dee7f1, type: 3}
+  - {fileID: 21300000, guid: 88ef826c4ad4c4d2987571e2be400df0, type: 3}
+  - {fileID: 21300000, guid: c0674a7cedf5549858d78f9a7e05aa20, type: 3}
+  - {fileID: 21300000, guid: 796738dc4a50a4588b657831710d18bb, type: 3}
+  - {fileID: 21300000, guid: 1b6e391dfca5f443096f981d5d11daff, type: 3}
+  - {fileID: 21300000, guid: 750e048d8e4554fa5ac3e1aa3b247ac0, type: 3}
+  - {fileID: 21300000, guid: 6c443dcd6a7c440769713d29ba8f7a81, type: 3}
+  - {fileID: 21300000, guid: 3803829ef3623434889b4c8a565b4bb1, type: 3}
+  - {fileID: 21300000, guid: b728b2ae739e54654b1b549f56975877, type: 3}
+  - {fileID: 21300000, guid: 5aa336de7dcd6435895b9f46c4be36a1, type: 3}
+  - {fileID: 21300000, guid: c4b5dc1f42e1d4613aaf169ad09e3585, type: 3}
+  - {fileID: 21300000, guid: 5a531b6fd98e64d2e997f19a9737f894, type: 3}
+  - {fileID: 21300000, guid: 8067ec6f3b19e45f9876f17c7f66872d, type: 3}
+  - {fileID: 21300000, guid: 3e946c9fd47054bd69e1b5d81622337d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - frame_roundsquare_10_white
+  - frame_roundsquare_09_white
+  - frame_roundsquare_02_base_purple
+  - Inputfield_error
+  - frame_circle_03_blue
+  - frame_roundsquare_02_base_skyblue
+  - frame_label_trapezoid_01_red
+  - frame_roundsquare_03_base_white
+  - frame_roundsquare_04_back
+  - frame_roundsquare_03_base_blue3
+  - frame_roundsquare_04_base_gray
+  - frame_roundsquare_02_base_white
+  - frame_circle_03_white
+  - frame_circle_02_green
+  - frame_roundsquare_06
+  - frame_roundsquare_03_base_gray
+  - frame_round
+  - frame_roundsquare_02_base_yellow
+  - frame_rhombus_02
+  - frame_circle_02_white
+  - frame_roundsquare_11
+  - frame_roundsquare_07
+  - frame_roundsquare_01_base_gray
+  - frame_label_trapezoid_01_green
+  - Inputfield_normal
+  - frame_label_trapezoid_02_blue
+  - frame_label_trapezoid_03_label
+  - frame_roundsquare_04_focus
+  - frame_roundsquare_08
+  - frame_circle_02_red
+  - frame_circle_03_green
+  - frame_roundsquare_04_base_white
+  - frame_label_ribbon
+  - frame_roundsquare_09
+  - frame_roundsquare_03_base_blue1
+  - frame_roundsquare_02_base_green2
+  - frame_roundsquare_01_base_white
+  - frame_circle_02_blue
+  - frame_roundsquare_02_base_pink
+  - frame_circle_01
+  - frame_roundsquare_02_base_green1
+  - frame_roundsquare_03_back
+  - frame_rhombus_01
+  - frame_roundsquare_10
+  - frame_label_trapezoid_01_purple
+  - frame_roundsquare_03_base_blue2
+  - frame_roundsquare_01_base_blue
+  - frame_roundsquare_05
+  - frame_roundsquare_01_front
+  - frame_circle_01_white
+  - frame_roundsquare_04_base_skyblue
+  m_Tag: Frame
+  m_IsVariant: 0

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Slider
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 264e5845e45404ae2a79ea3814019ab7, type: 3}
+    totalSpriteSurfaceArea: 35508
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9ca776507231f4944b8605d655b56d64, type: 3}
+  - {fileID: 21300000, guid: b7c28c60077e1491f81b07091b29fa9b, type: 3}
+  - {fileID: 21300000, guid: 27d1d5d00830f4779a61556f06a3bf58, type: 3}
+  - {fileID: 21300000, guid: 70beb284284b74e2ea96aeee38a232af, type: 3}
+  - {fileID: 21300000, guid: 847c31963fc4c44a6b1022826ab62939, type: 3}
+  - {fileID: 21300000, guid: eb7c18a7df91741ea82209a091f42ede, type: 3}
+  - {fileID: 21300000, guid: 89ca1ec7d063e440eb0c1b48c27277ab, type: 3}
+  - {fileID: 21300000, guid: 385378796258143cdb031984a45549aa, type: 3}
+  - {fileID: 21300000, guid: 9c92bad97e6fc4517b73aa0c5775f2c5, type: 3}
+  - {fileID: 21300000, guid: 59afca1a34b0140dbafd3348547b0543, type: 3}
+  - {fileID: 21300000, guid: 04d798ba66848412982c77f806bca993, type: 3}
+  - {fileID: 21300000, guid: 63af01ea5320f488ca6d4b5424f535eb, type: 3}
+  - {fileID: 21300000, guid: 21bd42bcabad24b179042967cbf80a8c, type: 3}
+  - {fileID: 21300000, guid: 3fd9eeccb741242839c8a626235f5909, type: 3}
+  - {fileID: 21300000, guid: 7839622de1368438d9fe32b918432e15, type: 3}
+  - {fileID: 21300000, guid: d301edfd5473a45bfa2ded6823eeb04e, type: 3}
+  - {fileID: 21300000, guid: c95d72fe7a26b4814920512bf909549f, type: 3}
+  - {fileID: 21300000, guid: 0a23b96f8e0054fd8a4b95a2077d416e, type: 3}
+  - {fileID: 21300000, guid: 169a838f4d213406eb6bf7211ef920a2, type: 3}
+  - {fileID: 21300000, guid: d557e6df219a74c1291c72b5a46f0b29, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - slider_01_base
+  - slider_02_fill_green
+  - slider_05_fill_yellow
+  - slider_02_frame
+  - slider_03_fill_blue
+  - slider_04_base_bluegray
+  - slider_03_frame_white
+  - slider_04_control_handle
+  - slider_01_frame
+  - slider_05_frame
+  - slider_01_base_white
+  - slider_02_base
+  - slider_03_base_white
+  - slider_03_base
+  - slider_04_base_white
+  - slider_01_fill_blue
+  - slider_04_base_blue
+  - slider_04_pattern_dot
+  - slider_02_base_white
+  - slider_03_fill_yellow
+  m_Tag: Slider
+  m_IsVariant: 0
